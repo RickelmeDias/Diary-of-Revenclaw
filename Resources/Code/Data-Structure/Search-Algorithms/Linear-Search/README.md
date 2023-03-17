@@ -6,7 +6,7 @@ Best case O(1):
 
 - Find the element in the first position of array
 
-Bad case O(n):
+Worst case O(n):
 
 - Find the element in the last position of array or this element is not in the array
 
