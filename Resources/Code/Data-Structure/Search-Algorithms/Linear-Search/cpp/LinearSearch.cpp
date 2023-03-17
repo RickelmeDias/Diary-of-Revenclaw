@@ -14,7 +14,7 @@ int main()
     
     for (int i=0; i < array_size; i++) {
         if (array_of_numbers[i] == number_to_find) {
-            cout << "True";
+            cout<<"True";
             return 0;
         }
     }
