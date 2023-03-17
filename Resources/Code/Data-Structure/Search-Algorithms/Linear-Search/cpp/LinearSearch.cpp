@@ -1,5 +1,4 @@
 #include <iostream>
-#include <array>
 
 using namespace std;
 
@@ -12,7 +11,6 @@ int main()
     cin>>number_to_find;
 
     int array_size = sizeof(array_of_numbers)/sizeof(int);
-
     
     for (int i=0; i < array_size; i++) {
         if (array_of_numbers[i] == number_to_find) {
