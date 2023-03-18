@@ -56,5 +56,4 @@ End
 You can see this implementation in other language too. Here some implementations that I did:
 
 - [C++ Binary Search](./cpp/BinarySearch.cpp)
-- [Java Binary Search](./java/BinarySearch.java)
 - [Python Binary Search](./python/BinarySearch.py)
