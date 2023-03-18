@@ -30,13 +30,13 @@ With these points about the Linear Search is possible to make a pseudocode to fi
 
 ```pseudocode
 Start
-    Declare Array<Integer> array_of_numbers = [1, 3, 5, 9, 12]
+    Declare Array<Integer> array_of_numbers = [1, 3, 5, 9, 13]
     Declare Integer number_to_find = input("What number do you want find?: ")
 
     Declare Integer last_pos = size(array_of_numbers) - 1
     Declare Integer mid = 0, first_pos = 0
 
-    While first_pos >= last_pos
+    While first_pos <= last_pos
         mid = (last_pos + first_pos)/2
 
         If array_of_numbers[mid] == number_to_find
