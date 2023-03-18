@@ -31,3 +31,4 @@ You can see this implementation in other language too. Here some implementations
 
 - [C++ Linear Search](./cpp/LinearSearch.cpp)
 - [Java Linear Search](./java/LinearSearch.java)
+- [Python Linear Search](./python/LinearSearch.py)
