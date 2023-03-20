@@ -2,7 +2,13 @@
 
 In this page I will write about Data Structure, what is, how measure it, how construct it, the type of data structures and more.
 
-## Data Structure
+## Data Structure Table
+
+| Data Structure                            |
+| ----------------------------------------- |
+| [Search Algorithms](./Search-Algorithms/) |
+
+## Data Structure Introduction
 
 Data structures are ways to store data with algorithms that support operations on the data. Each data structure algorithm has it is strengths and weaknesses. As software engineers is necessary to know the complexity of algorithms, to choose the best data structure to solve a determined problem.
 
@@ -43,4 +49,10 @@ With this introduction, what is better? More space? Less time? Less space? More 
 
 To analyze running time and space of algorithm we will use a the Asymptotic Analysis, it will help to calculate the time and space complexity. If you like the topics and articles that I suggest [you can read this document about analysis by MIT](https://ocw.mit.edu/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/8ee75d49f1cb9a947f1d3f15a2aa9e00_MIT1_204S10_lec05.pdf).
 
-##### [...] The document is still being written... If I don't finished it and you are here you can watch the class that I suggested about [Big O](https://www.youtube.com/watch?v=Mo4vesaut8g).
+We can see the difference between complexities in the image below:
+
+![Algorithms Explained Computacional Complexity](./Assets/AlgorithmsExplainedComputacionalComplexity.png)
+
+> Image from [DataDaft](https://www.youtube.com/watch?v=47GRtdHOKMg) youtube channel.
+
+For this image we can see that some cases is worst than otheres, like O(n!) is very bad.
