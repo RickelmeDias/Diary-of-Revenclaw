@@ -1,3 +1,5 @@
-The principles of S.O.L.I.D are linked with the OOP programming, if you want to make a review about it [you can access this part of the repository.](./OOP/) After remember the cohesion, coupling and Encapsulation concepts you're ready to continue.
+## Getting Started
 
-When apply the SOLID principles it will also apply these OOP principles.
+The principles of SOLID are linked with the OOP programming, if you want to make a review about it [you can access this part of the repository.](./OOP/) After get knowing aobut the cohesion, coupling and encapsulation concepts you're ready to continue.
+
+## The SOLID, what is?
