@@ -1,4 +1,4 @@
-## Quick Review about OOP
+## Quick Review about Object-Oriented Programming (OOP)
 
 ###
 
