@@ -4,9 +4,11 @@ In this page I will write about Data Structure, what is, how measure it, how con
 
 ## Data Structure Table
 
-| Data Structure                            |
-| ----------------------------------------- |
-| [Search Algorithms](./Search-Algorithms/) |
+| Data Structure                 |
+| ------------------------------ |
+| [Search Algorithms](./Search/) |
+| [Sort Algorithms](./Sort/)     |
+| [Stack Algorithms](./Stack/)   |
 
 ## Data Structure Introduction
 
