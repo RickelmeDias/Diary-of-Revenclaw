@@ -12,7 +12,8 @@ If you want to contribute feel free to up some corrections about my resources. P
 
 Here you can access my contents easy filtering by subject type.
 
-| Type                  | Subject                                                                 | Description                                                        |
-| --------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Code                  | [Data Structure](./Resources/Code/Data-Structure/)                      | Studies about data struct, theory and practice                     |
+| Type                  | Subject                                                      | Description                                                  |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Code                  | [Data Structure](./Resources/Code/Data-Structure/)           | Studies about data struct, theory and practice               |
+| Mathemetics           | [Numerical Methods](./Resources/Mathematics/Numerical-Methods) | Numerical analysis is the study of approximation algorithms for solving mathematical problems. |
 | Software Architecture | [SOLID Principles](./Resources/Software-Architecture/Principles/SOLID/) | A quick explanation of theory and practice on the solid principles |
