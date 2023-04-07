@@ -14,5 +14,5 @@ Here you can access my contents easy filtering by subject type.
 
 | Type        | Subject                                     | Description                        |
 | ----------- | ------------------------------------------- | ---------------------------------- |
-| Software    | [Data Structure](./Subject/Software/)       | Studies about software subjects    |
-| Mathemetics | [Numerical Methods](./Subject/Mathematics/) | Studies about maths in Engineering |
+| Software    | [Software](./Subject/Software/)       | Studies about software subjects    |
+| Mathemetics | [Math](./Subject/Mathematics/) | Studies about maths in Engineering |
