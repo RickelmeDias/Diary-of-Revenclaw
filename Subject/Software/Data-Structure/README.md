@@ -6,9 +6,11 @@ In this page I will write about Data Structure, what is, how measure it, how con
 
 | Data Structure                 |
 | ------------------------------ |
-| [Search Algorithms](./Search/) |
-| [Sort Algorithms](./Sort/)     |
-| [Stack Algorithms](./Stack/)   |
+| [Search](./Search/) |
+| [Sort](./Sort/)     |
+| [Stack](./Stack/)   |
+| [Queue](./Queue/)   |
+
 
 ## Data Structure Introduction
 
