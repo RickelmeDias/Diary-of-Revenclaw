@@ -53,6 +53,15 @@ These namespaces help ensure that each container is isolated from other containe
 
 A list of commands that I think interesting to save:
   
+- Run docker: `docker run -d IMAGE`
+- Stop container: `docker stop CONTAINER`
+- Start container: `docker start CONTAINER`
+- Pause container: `docker pause CONTAINER`
+- Unpause container: `docker unpause CONTAINER`
+- See layers from image: `docker history IMAGE`
+- See runnings containers: `docker ps`
+- See size of containers: `docker ps -s`
+- See all container: `docker ps -a``
 - Stop all containers: `docker stop $(docker container ls -q)`
 - Remove all images: `docker rmi images $(docker image ls -aq)`
 - Remove all containers: `docker rm $(docker container ls -aq)`
