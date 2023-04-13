@@ -61,7 +61,7 @@ A list of commands that I think interesting to save:
 - See layers from image: `docker history IMAGE`
 - See runnings containers: `docker ps`
 - See size of containers: `docker ps -s`
-- See all container: `docker ps -a``
+- See all container: `docker ps -a`
 - Stop all containers: `docker stop $(docker container ls -q)`
 - Remove all images: `docker rmi images $(docker image ls -aq)`
 - Remove all containers: `docker rm $(docker container ls -aq)`
