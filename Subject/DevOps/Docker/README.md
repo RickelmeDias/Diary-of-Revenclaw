@@ -54,6 +54,7 @@ These namespaces help ensure that each container is isolated from other containe
 A list of commands that I think interesting to save:
   
 - Run docker: `docker run -d IMAGE`
+- Exec command on container: `docker exec -it CONTAINER echo "I'm inside the container!"`
 - Stop container: `docker stop CONTAINER`
 - Start container: `docker start CONTAINER`
 - Pause container: `docker pause CONTAINER`
