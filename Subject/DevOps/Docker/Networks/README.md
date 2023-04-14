@@ -5,9 +5,10 @@
 
 1. [Bridge, Default Docker Networks and User-Defined Network](#bridge-default-docker-networks-and-user-defined-network)
 2. [How works None Network](#how-works-none-network)
-2. [How works Host Network](#how-works-host-network)
+3. [How works Host Network](#how-works-host-network)
+4. [Simple use example diagram](#example)
 
-## Bridge, Default Docker Networks and User-Defined Network
+### Bridge, Default Docker Networks and User-Defined Network
 
 If not set the network, the docker will use the default network:
 
@@ -56,13 +57,13 @@ Now if inspect this new container, it will return:
 
 It works well because the user-defined bridges provide this association. [Read more about User-defined bridges provide automatic DNS resolution between containers in the documentation.](https://docs.docker.com/network/bridge/#differences-between-user-defined-bridges-and-the-default-bridge).
 
-## How works None Network
+### How works None Network
 
 None: is a complete network isolated containter, this container haven't a network interface.
 
 To create a docker container with none networks is necessary to set the flag `--network none` when run.
 
-## How works Host Network
+### How works Host Network
 
 Host: uses the host network in the container, so if you run the Dockerfile created in [Images explaning](../Images/). When the docker starts, and run the npm start, is possible to access the `localhost:port` without mapping the ports.
 
@@ -70,4 +71,26 @@ Then we do not need to use the flag `-p` to mapping the ports, just running the 
 
 ```
 docker run -d --network host rickelmedias/app-node:1.0
+```
+
+### Example
+
+In this chart below is possible to see a example of application, where I could use two containers in the same custom networking, and a good advantage in this custom networks is that our container (MY_APPLICATION) can access the database container by name (MARIA_DB_CONTAINER).
+
+1. MY_APPLICATION config file:
+```
+    {
+        "databaseConfig": {
+            "host": "MARIA_DB_CONTAINER",
+            "database": "db_name"
+    }
+```
+
+```mermaid
+erDiagram
+          MY_APPLICATION }|..|{ MY_CUSTOM_BRIDGE_NETWORK : network_communication
+
+          MY_CUSTOM_BRIDGE_NETWORK }|..|{ MARIA_DB_CONTAINER : network_communication
+
+            
 ```
