@@ -9,8 +9,11 @@
 3. [Namespaces](#namespaces)
 4. [Cgroups](#cgroups)
 5. [Commands](#commands)
-6. [How to create image and generate a container](./Images/)
+6. Containers
+    - [How to create image and generate a container](./Images/)
     - [How to persist data in the container](./Persist/)
+    - [Container networks](./Networks/)
+    - [Using compose](./Compose/)
 
 ### How it works?
 
