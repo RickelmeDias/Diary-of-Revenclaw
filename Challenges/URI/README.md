@@ -2,7 +2,7 @@
 
 ![Image of many people in a programming competition, the image was found on google on mycplus website](../Assets/programming-competition.png)
 
-Here I will post my practices code.
+A page to include all solutions and the thinking.
 
 | Problem                                                         | Type           | Solving                 |
 | --------------------------------------------------------------- | -------------- | ----------------------- |
