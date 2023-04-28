@@ -12,7 +12,7 @@ If you want to contribute feel free to up some corrections about my resources. P
 
 Here you can access my contents easy filtering by subject type.
 
-| Subject                       | Class                                                      | Description                            |
+| Subject                       | Topic                                                      | Description                            |
 | ----------------------------- | ---------------------------------------------------------- | -------------------------------------- |
 | [DevOps](./DevOps/)           | [Docker](./DevOps/Docker/)                                 | Docker, containers and compose studies |
 | [Software](./Software/)       | [Data Structure](./Software/Data-Structure/)               | Data Structure theory and practice     |
