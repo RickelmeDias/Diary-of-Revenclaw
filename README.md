@@ -1,4 +1,4 @@
-![Ravenclaw Banner](https://user-images.githubusercontent.com/43411893/225737790-6bf21ba5-536e-449f-9f9f-aa7a80ee9f26.png)
+![Ravenclaw Banner](./Assets/home.png)
 
 Diary of a Ravenclaw is a repository to share resources about my experiences as Engineer in Computer Engineering. Here I will post fundamentals, programming, computing, maths, architecture, programming competitive, and more. You can contribute to improve my studying, correcting sentenses, exercises and solving issues (probable questions that I have).
 
@@ -12,7 +12,9 @@ If you want to contribute feel free to up some corrections about my resources. P
 
 Here you can access my contents easy filtering by subject type.
 
-| Type        | Subject                                     | Description                        |
-| ----------- | ------------------------------------------- | ---------------------------------- |
-| Software    | [Software](./Subject/Software/)       | Studies about software subjects    |
-| Mathemetics | [Math](./Subject/Mathematics/) | Studies about maths in Engineering |
+| Subject                       | Class                                                      | Description                            |
+| ----------------------------- | ---------------------------------------------------------- | -------------------------------------- |
+| [DevOps](./DevOps/)           | [Docker](./DevOps/Docker/)                                 | Docker, containers and compose studies |
+| [Software](./Software/)       | [Data Structure](./Software/Data-Structure/)               | Data Structure theory and practice     |
+| [Software](./Software/)       | [Software Architecture](./Software/Software-Architecture/) | Software Architecture studies          |
+| [Programming](./Programming/) | [Competitive Programming](./Programming/Competitive/)      | Competitive programming exercises      |
