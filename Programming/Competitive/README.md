@@ -70,3 +70,4 @@ Number of predetermined test cases:
 | Logical      | Used cpp max()         | [uva11799](./uva11799/)                                                     | [C++](./uva11799/11799.cpp) |
 | Stack/Object | Stack, Class & Object  | [uva12015](./uva12015/)                                                     | [C++](./uva12015/12015.cpp) |
 | Logical/Math | Logical and Math       | [uva10812](./uva10812/)                                                     | [C++](./uva10812/10812.cpp) |
+| Logical/Math | Logical and Math       | [uva10346](./uva10346/)                                                     | [C++](./uva10346/10346.cpp) |
