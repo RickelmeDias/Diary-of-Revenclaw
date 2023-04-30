@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     string lineString;
     
-    while(getline(cin, lineString)) {
+    while(cin >> lineString) {
         stack<char> stk;
         
         for (int i=0; i < lineString.length(); i++) {

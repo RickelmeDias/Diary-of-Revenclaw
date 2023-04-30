@@ -29,3 +29,4 @@ The image above is a good example, very near about what the algorithm in cpp do.
 - [Stack cpp-docs](https://en.cppreference.com/w/cpp/container/stack)
 - [Getline loop tip](https://stackoverflow.com/questions/15800705/c-whilegetline-doesnt-get-the-first-line-of-file)
 - [Getline cpp-docs](https://en.cppreference.com/w/cpp/string/basic_string/getline)
+- [Cin loop](../)
