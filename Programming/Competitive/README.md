@@ -63,11 +63,13 @@ Number of predetermined test cases:
 
 ## Exercises List
 
-| Type         | Description            | Problem Question Link                                                       | Solving                     |
-| ------------ | ---------------------- | --------------------------------------------------------------------------- | --------------------------- |
-| Stack        | Stack                  | [uri1068](https://www.beecrowd.com.br/judge/en/problems/view/1068)          | [C++](./uri1068/1068.cpp)   |
-| Queue        | The Stock Span Problem | [letcode406](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./letcode406/406.cpp) |
-| Logical      | Used cpp max()         | [uva11799](./uva11799/)                                                     | [C++](./uva11799/11799.cpp) |
-| Stack/Object | Stack, Class & Object  | [uva12015](./uva12015/)                                                     | [C++](./uva12015/12015.cpp) |
-| Logical/Math | Logical and Math       | [uva10812](./uva10812/)                                                     | [C++](./uva10812/10812.cpp) |
-| Logical/Math | Logical and Math       | [uva10346](./uva10346/)                                                     | [C++](./uva10346/10346.cpp) |
+| Type         | Description            | Problem Question Link                                                       | Solving                            |
+| ------------ | ---------------------- | --------------------------------------------------------------------------- | ---------------------------------- |
+| Stack        | Stack                  | [uri1068](https://www.beecrowd.com.br/judge/en/problems/view/1068)          | [C++](./uri1068/1068.cpp)          |
+| Queue        | The Stock Span Problem | [letcode406](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./letcode406/406.cpp)        |
+| Logical      | Used cpp max()         | [uva11799](./uva11799/)                                                     | [C++](./uva11799/11799.cpp)        |
+| Stack/Object | Stack, Class & Object  | [uva12015](./uva12015/)                                                     | [C++](./uva12015/12015.cpp)        |
+| Logical/Math | Logical and Math       | [uva10812](./uva10812/)                                                     | [C++](./uva10812/10812.cpp)        |
+| Logical/Math | Logical and Math       | [uva10346](./uva10346/)                                                     | [C++](./uva10346/10346.cpp)        |
+| Logical      | Logical                | [codeforces1220A](./codeforces1220A/)                                       | [C++](./codeforces1220A/1220A.cpp) |
+| Logical      | Logical                | [atcoder_agc004](./atcoder_agc004/)                                         | [C++](./atcoder_agc004/agc004.cpp) |
